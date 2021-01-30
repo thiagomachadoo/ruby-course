@@ -1,8 +1,8 @@
 #Lesson 1: Outputting a String
 
-puts "Hello World!"
+"Qual é o seu nome?"
 
 #Lesson 2: Prompting User Input
 
-#name = gets
-# puts "Hey, #{name}! Nice to meet you!"
+name = obtém
+"Hey, #{name}! Nice to meet you!"
